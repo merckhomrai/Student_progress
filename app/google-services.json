@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053771783020",
+    "project_id": "register-fdbec",
+    "storage_bucket": "register-fdbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053771783020:android:d874923a8924c1304b7149",
+        "android_client_info": {
+          "package_name": "com.example.register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATHrtIr4dhRzMScPFXQzlgQBpshS2513Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
